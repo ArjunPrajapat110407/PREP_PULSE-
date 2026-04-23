@@ -1,7 +1,7 @@
 {
-  "name": "Prep Pulse — NEET 2026",
+  "name": "Prep Pulse — NEET TRACKER",
   "short_name": "PrepPulse",
-  "description": "NEET 2026 Study Tracker — Comprehensive preparation app",
+  "description": "NEET Study Tracker — Comprehensive preparation app",
   "start_url": "./PrepPulse_V26.html",
   "display": "standalone",
   "background_color": "#06080f",
