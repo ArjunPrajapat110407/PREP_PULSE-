@@ -1,6 +1,6 @@
-# ⚡ Prep Pulse V26 — NEET 2026
+# ⚡ Prep Pulse V26 — NEET TRACKER
 
-**All-in-one NEET 2026 preparation tracker — works offline, installable as PWA.**
+**All-in-one NEET preparation tracker — works offline, installable as PWA.**
 
 ## 🚀 Use Directly
 Open `PrepPulse_V26.html` in Chrome/Safari — no server needed.
