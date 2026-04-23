@@ -1,4 +1,4 @@
-# Prep Pulse V25 — NEET 2026 Study Tracker
+# Prep Pulse V25 — NEET Study Tracker
 
 **By ARJUN Prajapat** | Made with ❤️ for NEET aspirants
 
